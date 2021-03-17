@@ -6,7 +6,11 @@ This project is from the Day 25 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
-
+Great to see how simple it is to make a good-looking home page. I have always used CSS frameworks for things like navbars, but I now that I see how easy it is I can confindently make one on my own.
 
 ### Things Learned
 
+All of the techniques used for this project have been used in past projects, but it was very helpful to see them applied to this project.
+
+Refresher:
+* Can use ::before to create an overlay instead of making a new element
